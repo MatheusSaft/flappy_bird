@@ -121,7 +121,7 @@ is_score_time = True
 
 
 # Font
-score_font = pygame.font.Font('04B_19.ttf', 27)
+score_font = pygame.font.Font('fonts/04B_19.ttf', 27)
 
 
 # Sounds
